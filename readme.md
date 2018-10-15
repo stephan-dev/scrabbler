@@ -1,5 +1,10 @@
 # Scrabble
 
+Programmer un jeu de scrabble en Ruby orienté objet (apprentissage OOP)
+Test driven development : un fichier RSpec existe déjà et va tester notre programme, pour une seule lettre, pour un A, un Z, un mot, un mot compte double...
+Création d'une class SrabbleWord avec une méthode score et une méthode multiplier_score.
+
+
 ## Setup 
 
 1. Fork and clone (remember to clone YOUR fork).
